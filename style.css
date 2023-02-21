@@ -1,0 +1,101 @@
+
+body {
+    background-color:#E5DDC8; 
+    text-align: center;
+    align-items: center;
+}
+
+.menu{
+   
+    width:100%;
+}
+
+ul li{
+    display: inline-block;
+    color:#004369;
+    padding:10px 15px;
+    font-weight: 700;
+    font-size: 20px;
+}
+ul li a{
+    display: inline-block;
+    color:#004369;
+    padding:10px 20px;
+    font-weight: 700;
+    font-size: 20px;
+}
+ul{
+    text-align:right;
+    width: auto;
+}
+h1{
+    font-size: 42px;
+    color:#DB1F48;
+    margin: 30px 0;
+}
+h2{
+    font-size: 24px;
+    color:#004369;
+    margin: 30px 0;
+}
+input{
+    padding: 10px;
+    border-radius: 25px;
+    width: 200px;
+    border: 1px solid #004369;
+    margin-top: 5px;
+
+}
+#submit{
+    background: #01949A;
+    margin-bottom:10px;
+    margin-top: 20px;
+}
+label{
+    font-size: 18px;
+    color:#004369;
+    font-weight: 600; 
+}
+textarea{    padding: 10px;
+    border-radius: 25px;
+    width: 400px;
+    border: 1px solid #004369;
+    margin-top: 5px;
+    height: 150px;
+}
+.creapost{
+    background-color: #01949A;
+    width: 80%;
+    border-radius: 25px;
+    padding:20px 0;
+    margin-left:10%;
+}
+.creablog{
+   
+    width: 80%;
+    border-radius: 25px;
+    padding:20px 0;
+    margin-left:10%;
+}
+#submit1{
+    background: #DB1F48;
+    margin-bottom:10px;
+    margin-top: 20px;
+}
+#submit:hover{
+    opacity:0.7;
+}
+#submit1:hover{
+    opacity:0.7;
+}
+#submit2:hover{
+    opacity:0.7;
+}
+.commentii{
+    background:#004369;
+    max-width:120px;
+    color:#ffffff;
+    padding:3px;
+    border-radius:10px;
+    opacity: 1;
+}
